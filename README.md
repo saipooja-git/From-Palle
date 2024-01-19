@@ -35,3 +35,11 @@ The below are some books, that I would refer to read.
 |---------------|--------|----------|
 |The Secret|I recommend this book,because it made be believe in me|Rhonda byrne|
 
+---------------------
+## Quotes ##
+> I enjoy being with people who are easy-going
+> Also I enjoy and feel so happy by spending time  with them
+
+> You only live once, but if you do it right, once is enough.
+> ***Mae West***
+
