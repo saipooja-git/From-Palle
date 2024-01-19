@@ -45,3 +45,27 @@ The below are some books, that I would refer to read.
 > ***Mae West***
 
 
+---------------------------------------------------
+## code fencing ##
+
+Python Singleton decorator
+Tags: python, virtual environment, singleton decorator, python singleton
+
+Decorator to create a singleton class.
+
+
+```
+def singleton(myClass):
+	instances = {}
+	def getInstance(*args, **kwargs):
+		if myClass not in instances:
+			instances[myClass] = myClass(*args, **kwargs)
+		return instances[myClass]
+	return getInstance
+
+@singleton
+class TestClass(object):
+	pass 
+
+```
+lets go to snippet 16<https://code.pieces.app/collections/python>
