@@ -12,3 +12,12 @@ Appetizing
 2. Desserts
 3. cool drinks
 
+--------
+* Charminar
+    * Shopping
+    * street food
+* Golconda Fort
+* Tank bund
+* necklace road
+
+
