@@ -37,9 +37,11 @@ The below are some books, that I would refer to read.
 
 ---------------------
 ## Quotes ##
-> I enjoy being with people who are easy-going
-> Also I enjoy and feel so happy by spending time  with them
 
+> To live is the rarest thing in the world. Most people exist, that is all.
+> ***Oscar Wilde***
+>
 > You only live once, but if you do it right, once is enough.
 > ***Mae West***
+
 
