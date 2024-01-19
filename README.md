@@ -19,5 +19,7 @@ Appetizing
 * Golconda Fort
 * Tank bund
 * necklace road
+![My info](MyMedia.md)
+
 
 
